@@ -39,3 +39,15 @@ The most products that are being ordered are Jewellery, blouse, and pants which 
 |------------------------------------------------------|-------------------------------------------------------------|
 ![](/images/order_pattern.png) | ![](/images/location.png)
 There is a decreasing general trend in changes in orders due to changes in seasons. However, customers order most during spring season.|Most orders are coming from customers based in Montana and California, having a total orders of 96 and 95 respectively.
+
+## Recommendation
+From the findings, the following actions are recommended to the marketing department so that they can channel their campaign efforts to in order to maximise sales:
+* The marketing department should sell more of a  mixture of jewellery, blouse, and pants because they had the most sales. These products should be in olive colour since it is the most prefered colour by both gender on average. Morever, these products should be sold during the spring season because they have most sales and preferably shoulf channel more campaign efforts in Montana and California because they are the two locations that are generating  most sales. 
+
+## Limitations
+The following were the limitations of the  project:
+* There were missing data in the colour column hence they had to be filled with "Unknown"
+* There were duplicates and outliers that had to be elimiated.
+
+## References
+* The visual used for the title was taken from [https://www.skillsyouneed.com/rhubarb/save-money-clothing.html]
