@@ -2,8 +2,11 @@
 
 ![](/images/title_image.jpg)
 
-## Problem statement
+## Problem Statement
 The marketing department of a store aims to launch a campaign in the second quarter of 2024. However, they require a dashboard to monitor business activity during the waiting period. This will provide insights into where to channel the campaign efforts. The Marketing lead would like to track various metrics over time, including product performance, changes in customers' choice of color, location, and seasonality patterns in relation to orders. Additionally, any other metric(s) deemed necessary should be incorporated into the dashboard.
+
+## Data Source
+The dataset used for this analaysis is the 'Shopping_data.csv'. It contains all the information related to purhcase that were made by each customer
 
 ## Aim
 The aim of this project is to build a dashboard that will track various metrics over time in order to help in campaign decision making. 
@@ -15,13 +18,13 @@ The aim of this project is to build a dashboard that will track various metrics 
 -	To determine the taste of customers in terms of colours
 -	To build a dashboard that will include summarise the metrics
 
-## Tools utilized
+## Tools Utilized
 - Microsoft Excel 
   - Data cleaning – for cleaning the data and making it ready for analysis. 
   - Analysis – using pivot tables to summarise key results
   - Report – creating dashboard for key metrics
 
-## Data cleaning
+## Data Cleaning
 This phase was crucial for the project's success. Data cleaning ensures that the data is free of errors, duplicates, outliers, and other issues that could affect the analysis. The following data cleaning steps were carried out:
 -	Applied filters to easily help in inspecting the data for any spelling errors etc..
 -	Duplicates were removed
